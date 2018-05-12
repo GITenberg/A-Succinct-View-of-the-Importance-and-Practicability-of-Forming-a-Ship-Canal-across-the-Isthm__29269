@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33805'
     url: http://www.gutenberg.org/2009/agents/33805
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29269#A-Succinct-View-of-the-Importance-and-Practicability-of-Forming-a-Ship-Canal-across-the-Isthm_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2009-06-29'
 gutenberg_type: Text
