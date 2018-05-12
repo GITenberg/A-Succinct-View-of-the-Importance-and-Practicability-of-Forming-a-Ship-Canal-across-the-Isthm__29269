@@ -1,0 +1,29 @@
+_repo: A-Succinct-View-of-the-Importance-and-Practicability-of-Forming-a-Ship-Canal-across-the-Isthm__29269
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hill, H. R.
+    gutenberg_agent_id: '33805'
+    url: http://www.gutenberg.org/2009/agents/33805
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2009-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29269'
+  lccn: '81180604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1561'
+- !lcsh 'Panama Canal (Panama)'
+- !lcsh 'Canals, Interoceanic'
+- !lcc 'TC'
+title: A Succinct View of the Importance and Practicability of Forming a Ship Canal
+  across the Isthmus of Panama
+url: http://www.gutenberg.org/ebooks/29269
